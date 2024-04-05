@@ -113,4 +113,3 @@ make sure that the new functionality is easily accessible.
 ### Task 4 (Optional)
 
 Show-case your skills by adding a new feature of your choice to the core package. Ideally, this feature should make use of an LLM.
-Nitin
